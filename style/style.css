@@ -160,6 +160,25 @@ body{
     width: 450px;
     height: 420px;
 }
+.submit-center{
+    width: 809px;
+    height: 200px;
+    background-color: rgb(255, 244, 214);
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: -60px;
+}
+.submit-center input{
+    width: 269px;
+    height: 56px;
+    border-radius: 5px;
+    background-color: rgb(217, 217, 217);
+    border: none;
+    margin-top: 10px;
+}
 
 
 @media screen and (max-width:576px) {
